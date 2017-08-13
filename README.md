@@ -1,2 +1,2 @@
 # pythonhelloworld
-test repo and python
+test repo for git commands demonstration
